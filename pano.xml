@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="18080" appversion="6.1.13">
+  <panorama id="node1" hideabout="1">
+    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" height="2048" levelingroll="0" width="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" height="2048" width="2048"/>
+      <level predecode="0" preload="0" height="1024" width="1024"/>
+      <level predecode="0" preload="0" height="512" width="512"/>
+      <level predecode="1" preload="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="1.9447" tilt="-38.3821" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata datetime="" heading="0" copyright="" title="" tags="DEMO WE BELIEVE" longitude="" comment="" nodeid="node1" author="" info="" source="" latitude="" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" bordercolor="0x000000" textalpha="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" backgroundalpha="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Stand Yape" id="Stand Yape " url="{node2}" target="" pan="-327.57" tilt="-55" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="Stand BCP" url="{node3}" target="" pan="2.02656e-08" tilt="-58.66" description=""/>
+      <hotspot skinid="ht_node" title="Stand Everis " id="Stand Everis " url="{node4}" target="" pan="-31.01" tilt="-54.4" description=""/>
+      <hotspot skinid="ht_node" title="Stand Yape" id="yape" url="{node2}" target="" pan="-339.99" tilt="-42.15" description=""/>
+      <hotspot skinid="ht_node" title="Stand Yape" id="yape" url="{node2}" target="" pan="-345.03" tilt="-33.47" description=""/>
+      <hotspot skinid="ht_node" title="Stand Yape" id="yape" url="{node2}" target="" pan="-348.19" tilt="-26.49" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="bcp" url="{node3}" target="" pan="-359.24" tilt="-26.84" description=""/>
+      <hotspot skinid="ht_node" title="Stand Everis" id="everis" url="{node4}" target="" pan="-9.44" tilt="-26.4" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="bcp" url="{node3}" target="" pan="-359.7" tilt="-34.63" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="bcp 5" url="{node3}" target="" pan="0.310002" tilt="-44.22" description=""/>
+      <hotspot skinid="ht_node" title="Stand Everis" id="everis" url="{node4}" target="" pan="-13.54" tilt="-33.38" description=""/>
+      <hotspot skinid="ht_node" title="Stand Everis" id="everis" url="{node4}" target="" pan="-20.01" tilt="-42.4" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="bcp" url="{node3}" target="" pan="-24.68" tilt="-31.17" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="bcp" url="{node3}" target="" pan="-34.41" tilt="-38.45" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="bcp" url="{node3}" target="" pan="-48.54" tilt="-46.39" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="BCP 2" url="{node3}" target="" pan="-308.81" tilt="-46.32" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="BCP 3" url="{node3}" target="" pan="-323.59" tilt="-37.98" description=""/>
+      <hotspot skinid="ht_node" title="Stand BCP" id="BCP" url="{node3}" target="" pan="-332.14" tilt="-31.23" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomafteroutfov="20" zoomin="0" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomout="0" zoomspeed="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" sensitivity="8" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" height="2048" levelingroll="0" width="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" height="2048" width="2048"/>
+      <level predecode="0" preload="0" height="1024" width="1024"/>
+      <level predecode="0" preload="0" height="512" width="512"/>
+      <level predecode="1" preload="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="4.90737" tilt="-5.25149" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata datetime="" heading="0" copyright="" title="" tags="DEMO WE BELIEVE" longitude="" comment="" nodeid="node2" author="" info="" source="" latitude="" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" bordercolor="0x000000" textalpha="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" backgroundalpha="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot skinid="ht_url" title="Página Web " id="Página Web " url="https://www.yape.com.pe/#/" target="_blank" pan="-335.28" tilt="14.26" description=""/>
+      <hotspot skinid="ht_node" title="Mapa de Stands " id="Mapa de Stands " url="{node1}" target="" pan="-321.32" tilt="18.86" description=""/>
+      <hotspot skinid="ht_url" title="Formulario de Contacto " id="Formulario de Contacto " url="https://form.jotform.com/211936185833865" target="_blank" pan="-1.14" tilt="-33.33" description=""/>
+      <hotspot skinid="ht_video_youtube" title="Vídeo Yape" id="Vídeo Yape" url="hovmOsFdzwU" target="" pan="-22.94" tilt="0.28" description=""/>
+      <hotspot skinid="ht_url" title="Whatsapp" id="Whatsapp" url="https://api.whatsapp.com/send/?phone=+50230601005&amp;text=Solicitud+de+informaci%C3%B3n&amp;app_absent=0" target="_blank" pan="-1.24" tilt="-12.77" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomafteroutfov="20" zoomin="0" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomout="0" zoomspeed="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" sensitivity="8" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" height="2048" levelingroll="0" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" height="2048" width="2048"/>
+      <level predecode="0" preload="0" height="1024" width="1024"/>
+      <level predecode="0" preload="0" height="512" width="512"/>
+      <level predecode="1" preload="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="3.65186" tilt="-3.26275" fov="58.402"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata datetime="" heading="0" copyright="" title="" tags="DEMO WE BELIEVE" longitude="" comment="" nodeid="node3" author="" info="" source="" latitude="" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" bordercolor="0x000000" textalpha="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" backgroundalpha="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Mapa de Stands " id="Mapa de Stands " url="{node1}" target="" pan="-325.85" tilt="19.1" description=""/>
+      <hotspot skinid="ht_url" title="Página Web " id="Información " url="https://www.viabcp.com/" target="_blank" pan="-345" tilt="13.54" description=""/>
+      <hotspot skinid="ht_video_youtube" title="Vídeo BCP" id="Vídeo BCP" url="-5oucor-ZcE" target="" pan="-23.44" tilt="1.29" description=""/>
+      <hotspot skinid="ht_url" title="Formulario de Contacto " id="Contacto" url="https://form.jotform.com/211936460755864" target="_blank" pan="-7.4" tilt="-26.46" description=""/>
+      <hotspot skinid="ht_url" title="Whatsapp" id="Whatsapp" url="https://api.whatsapp.com/send/?phone=+50230601005&amp;text=Solicitud+de+informaci%C3%B3n&amp;app_absent=0" target="_blank" pan="-4.72" tilt="-9.63" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomafteroutfov="20" zoomin="0" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomout="0" zoomspeed="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" sensitivity="8" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" height="2048" levelingroll="0" width="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" height="2048" width="2048"/>
+      <level predecode="0" preload="0" height="1024" width="1024"/>
+      <level predecode="0" preload="0" height="512" width="512"/>
+      <level predecode="1" preload="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="4.95455" tilt="-9.59939" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata datetime="" heading="0" copyright="" title="" tags="DEMO WE BELIEVE" longitude="" comment="" nodeid="node4" author="" info="" source="" latitude="" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" bordercolor="0x000000" textalpha="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" backgroundalpha="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Mapa de Stands " id="Mapa de Stands" url="{node1}" target="" pan="-325.36" tilt="19.81" description=""/>
+      <hotspot skinid="ht_url" title="Página Web " id="Página Web " url="https://everisingenieria.com/" target="_blank" pan="-352.35" tilt="13.47" description=""/>
+      <hotspot skinid="ht_url" title="PDF " id="PDF" url="http://www.itd.upm.es/wp-content/uploads/sites/10/2018/07/Modelizaci%C3%B3n-de-organizaciones-evolutivas-Caso-Everis.pdf" target="_blank" pan="-338.04" tilt="-1.85" description=""/>
+      <hotspot skinid="ht_url" title="Formulario de Contacto " id="Formulario de Contacto " url="https://form.jotform.com/211936724718866" target="_blank" pan="-2.97" tilt="-32.04" description=""/>
+      <hotspot skinid="ht_video_youtube" title="Video Everis " id="Vídeo Everis" url="jHPKLho0UCk" target="" pan="-32.44" tilt="0.44" description=""/>
+      <hotspot skinid="ht_url" title="Whatsapp " id="Whatsapp " url="https://api.whatsapp.com/send/?phone=+50230601005&amp;text=Solicitud+de+informaci%C3%B3n&amp;app_absent=0" target="_blank" pan="-4.43" tilt="-11.21" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomafteroutfov="20" zoomin="0" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomout="0" zoomspeed="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" sensitivity="8" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" heading="0" copyright="" title="" tags="" longitude="" comment="" nodeid="master" author="" info="" source="" latitude="" customnodeid="" description=""/>
+  </masternode>
+</tour>
